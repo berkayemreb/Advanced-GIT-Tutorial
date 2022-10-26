@@ -13,3 +13,5 @@
 
 - "git diff ab886430b79..2fbaf5229521 index.md" : eski commit(id) ile yeni commit (id) arasındaki 'index.md dosyasındaki' (yazılması zorunlu degil) farkı getirir. 
 arasındaki farkları görmek için vscode dan da görebilirsin ve bunun okunması daha kolay olur. 
+
+## GIT Terminalinden çıkmak istedigimiz anlarda ":q" yu kullanabilirsin. 
