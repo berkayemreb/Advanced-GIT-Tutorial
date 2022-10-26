@@ -10,7 +10,10 @@
 
 - "git stash list" : stashte kaydettigimiz commitleri görmemizi saglar.
 
-- "git stash pop" : stashin en üstündeki commiti getirmemizi sağlar.
-
 - "git stash clear" : stashteki commiti siler.
+
+- "git stash pop" : stashin en üstündeki commiti getirmemizi sağlar ve stashten bunu siler
+
+- "git stash apply stash@{0}" : stashteki işlemi geri getirir ama stashten bunu silmez. (stash@{0} yerine getirmek istedigimiz stash idsi yazılır.)
+
 
