@@ -8,3 +8,4 @@
 
 - "git branch -D branchName" : 'branchName' isimli branchi silmeyi sağlar.
 
+# Bu konuda daha fazla kod notlarını görmek istiyorsan header branchine git ve oradaki header.md dosyasını incele.
