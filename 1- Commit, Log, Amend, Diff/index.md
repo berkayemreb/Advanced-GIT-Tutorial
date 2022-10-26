@@ -1,0 +1,2 @@
+- 'git log' : commit listesini görebiliriz. 
+- 'git commit --amend' : yeni eklenen bir şeyi , gönderilmiş commite dahil etmemizi sağlar.
